@@ -5,6 +5,8 @@ Competition: u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162
 Writes a single one-line joke about office life to /output/entry.txt.
 The joke was written by the agent in this session (see CANDIDATES.md
 in the build workspace for the scored shortlist it was chosen from).
+
+SPDX-License-Identifier: MIT
 """
 
 import os
